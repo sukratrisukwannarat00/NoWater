@@ -1,0 +1,50 @@
+.header-section { 
+background-color: #f7f4f4; 
+color: rgb(250, 249, 248); 
+padding: 20px; 
+text-align: center; 
+} 
+.main-content { 
+background-color: #c9c1ba; 
+padding: 50px; 
+min-height: 200px;
+} 
+.cta-contact { 
+background-color: #f0c57f; 
+color: rgb(11, 11, 11); 
+padding: 10px 20px; 
+text-decoration: none; 
+border-radius: 5px; 
+transition: 0.3s; 
+} 
+.cta-contact:hover { 
+background-color: #cb9f7d; 
+transform: translateY(-3px); 
+box-shadow: 0 5px 15px rgba(242, 224, 176, 0.988); 
+}
+.cta-project { 
+background-color: #f0c57f; 
+color: rgb(11, 11, 11); 
+padding: 10px 20px; 
+text-decoration: none; 
+border-radius: 5px; 
+transition: 0.3s; 
+} 
+.cta-project:hover { 
+background-color: #cb9f7d; 
+transform: translateY(-3px); 
+box-shadow: 0 5px 15px rgba(242, 224, 176, 0.988); 
+}
+.cta-home { 
+background-color: #f0c57f; 
+color: rgb(8, 8, 8); 
+padding: 10px 20px; 
+text-decoration: none; 
+border-radius: 5px; 
+transition: 0.3s; 
+} 
+.cta-home:hover { 
+background-color: #cb9f7d; 
+transform: translateY(-3px); 
+box-shadow: 0 5px 15px rgba(242, 224, 176, 0.988); 
+}
